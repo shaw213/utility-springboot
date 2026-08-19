@@ -52,7 +52,7 @@
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
             <artifactId>elasticsearch-rest-high-level-client</artifactId>
-            <version>7.17.14</version>
+            <version>7.17.29</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-client -->
 <!--        <dependency>-->
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
-            <version>7.17.14</version>
+            <version>7.17.29</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.alibaba.fastjson2/fastjson2 -->
